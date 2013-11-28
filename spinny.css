@@ -1,0 +1,23 @@
+.spinny-show {
+	display: none;
+}
+
+.spinny-show-on-ajax-success {
+	display: none;
+}
+
+.spinny-now .spinny-show {
+	display: block;
+}
+
+.spinny-now .spinny-hide {
+	display: none;
+}
+
+.spinny-ajax-success .spinny-show-on-ajax-success {
+	display: block;
+}
+
+.spinny-ajax-success .spinny-hide-on-ajax-success {
+	display: none;
+}
